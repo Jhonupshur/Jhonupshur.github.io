@@ -80,6 +80,13 @@ header h1 {
     color: #666;
 }
 
+.section-contente {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 40px;
+    color: #ffffe2;
+}
+
 .photo-gallery {
     display: flex;
     flex-wrap: wrap;
